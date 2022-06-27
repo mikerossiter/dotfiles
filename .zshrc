@@ -10,8 +10,6 @@ fi
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export UACCOUNT_AWS_USER="michael.rossiter"
-export UACCOUNT_AWS_ROLE="PlatformProbation"
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:~/Downloads/Kui-linux-x64
 
