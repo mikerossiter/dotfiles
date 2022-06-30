@@ -36,6 +36,7 @@ Plugin 'hashivim/vim-terraform'
 Plugin 'andrewstuart/vim-kubernetes'
 Plugin 'towolf/vim-helm'
 Plugin 'fatih/vim-go'
+Plugin 'rust-lang/rust.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -65,6 +66,7 @@ filetype indent on
 
 " Turn syntax highlighting on.
 syntax on
+syntax enable
 
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
